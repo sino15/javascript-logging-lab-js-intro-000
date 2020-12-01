@@ -1,3 +1,2 @@
 console.console.error("Test");
-console.log('Test');
-console.warn('Test212');
+console.console.log("are you okay");

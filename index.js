@@ -1,2 +1,1 @@
-console.console.log("test");
-console.console.log("another one");
+console.console.error("Test");

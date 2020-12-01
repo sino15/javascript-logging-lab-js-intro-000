@@ -1,2 +1,2 @@
-console.console.log("WTF AM I DOING?");
-console.log("test?!")
+console.console.log("test");
+console.console.log("another one");
